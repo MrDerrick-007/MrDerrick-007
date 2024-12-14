@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 <h2 align="center"> 👨‍💻 Andrea Manfroni</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vi-dev0&style=flat-square&color=yellow"></p>
 <!--
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vi-dev0&style=flat-square&color=yellow"></p>
 <p align="center">
   <samp>The programmer is self-taught. I started with website development and CRM implementation. 
 I have extensive experience in marketing and SEO. At the moment I am studying Python and automating 
